@@ -1,0 +1,4 @@
+SpeechRecognition
+pydub
+python-docx
+tqdm
