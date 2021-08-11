@@ -31,7 +31,7 @@ python setup.py install
 
 ## Usage
 
-The simple script in (Example)[example/transcriptor.py] will trascribe to docx every file in inputdir:
+The simple script in [Example](https://github.com/Mat092/video-transcription/blob/master/example/transcribe.py) will trascribe to docx every file in inputdir:
 
 ```python
 import video_transcription as vt
